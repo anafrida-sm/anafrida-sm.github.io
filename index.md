@@ -1,7 +1,7 @@
 Hello and welcome to my blog.
 Hola y bienvenido a mi blog.
 Oí e bem vindo ao meu blog.
-привет и добро пожаловать в мой блог.
+Привет и добро пожаловать в мой блог.
 
 ![Escritorio de trabajo](images/DSC_0561.JPG)
 
