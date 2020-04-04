@@ -7,4 +7,4 @@ Oí e bem vindo ao meu blog.
 
 ## Estadística y paleontología
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+¿Quien es la Bella Dorotea? [Cuento para niños de Jorge Ibargüengoitia](https://cultura.nexos.com.mx/?p=14760). Yo no!
