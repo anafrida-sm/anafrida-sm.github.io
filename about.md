@@ -6,5 +6,5 @@ También me gusta mucho la pintura mural prehispánica, aquella que tiene aves! 
 
 ![Fósiles aves Tlapacoya](./images/picos.JPG)
 ![Pato Teopancazco](./images/quilla.JPG)
-![Aves pintura prehispánica](./images/avespmp.JPG)
+![Aves pintura prehispánica](./images/avespmp.jpg)
 
