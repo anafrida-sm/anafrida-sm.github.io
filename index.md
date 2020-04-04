@@ -7,4 +7,4 @@ Oí e bem vindo ao meu blog.
 
 ## Estadística y paleontología
 
-¿Quien es la Bella Dorotea? [Cuento para niños de Jorge Ibargüengoitia](https://cultura.nexos.com.mx/?p=14760). Yo no!
+¿Quién es la Bella Dorotea? [Cuento para niños de Jorge Ibargüengoitia](https://cultura.nexos.com.mx/?p=14760). Yo no!
